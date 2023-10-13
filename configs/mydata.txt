@@ -1,0 +1,23 @@
+expname = mydata
+basedir = ./logs
+datadir = ./images_230914002521
+dataset_type = own
+
+no_batching = True
+
+use_viewdirs = True
+white_bkgd = True
+lrate_decay = 500
+
+N_samples = 64
+N_importance = 128
+N_rand = 1024
+
+half_res = True
+
+finest_res = 512
+log2_hashmap_size = 19
+lrate = 0.01
+lrate_decay 10
+
+mesh_res = 256

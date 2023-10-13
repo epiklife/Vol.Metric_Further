@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+.ipynb_checkpoints/
+torch-*.whl
+
+# Datasets
+data/
+logs/
+colmap/
+images_*/
+datas_*/

@@ -1,0 +1,19 @@
+expname = ingp_ukulele
+basedir = ./logs
+videodir = ./data/ingp/ukulele/ukulele.mp4
+dataset_type = ingp
+
+factor = 2
+
+no_batching = True
+
+use_viewdirs = True
+white_bkgd = False
+
+lrate = 0.01
+lrate_decay = 10
+
+N_samples = 64
+N_importance = 128
+N_rand = 1024
+

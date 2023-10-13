@@ -1,0 +1,5 @@
+kornia
+plyfile
+PyMCubes
+open3d
+pyvista
